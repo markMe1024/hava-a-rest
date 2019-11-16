@@ -13,7 +13,7 @@ public class Rest {
     /**
      * 提示信息
      */
-    private static final String ALERT_MESSAGE = "Rest for two minutes, relax your neck muscles, and look into the distance";
+    private static final String ALERT_MESSAGE = "休息两分钟，活动一下脖子，也让眼睛休息一下";
 
     public static void main(String[] args) {
         while (true) {
